@@ -18,14 +18,14 @@ public class StudentSolutionImplementation implements StudentSolution {
     public void insertionSort(Point[] points, int a, int b, boolean sortX) {
         if (sortX) {
             for (int i = a + 1; i < b; i++) {
-                for (int j = i; j > a && points[j-1].getX() > points[j].getX(); j--) {
+                for (int j = i; j > a && points[j - 1].getX() > points[j].getX(); j--) {
                     swap(points, j-1, j);
                 }
             }
         } else {
             for (int i = a + 1; i < b; i++) {
-                for (int j = i; j > a && points[j-1].getY() > points[j].getY(); j--) {
-                    swap(points, j-1, j);
+                for (int j = i; j > a && points[j - 1].getY() > points[j].getY(); j--) {
+                    swap(points, j - 1, j);
                 }
             }
         }
@@ -42,13 +42,13 @@ public class StudentSolutionImplementation implements StudentSolution {
         if (b - a <= 1) {
             return null;
         } else {
-            PointPair closestPair = new PointPair(points[a], points[a + 1], points[a].getDistance(points[a + 1]));
+            PointPair closestPair = new PointPair(points[a], points[a + 1], points[a].getDistance(points[a + 1])); // default closest pair
 
-            for (int i = a; i < b; i++) {
-                for (int j = a; j < b; j++) {
+            for (int i = a; i < b; i++) { // compare every point
+                for (int j = a; j < b; j++) { // with every other point
                     if (i != j) {
-                        double distance = points[i].getDistance(points[j]);
-                        if (distance < closestPair.getDistance()) {
+                        double distance = points[i].getDistance(points[j]); // calculate the distance
+                        if (distance < closestPair.getDistance()) { // and save the closest pair
                             closestPair.setPoint1(points[i]);
                             closestPair.setPoint2(points[j]);
                             closestPair.setDistance(distance);
@@ -56,27 +56,53 @@ public class StudentSolutionImplementation implements StudentSolution {
                     }
                 }
             }
-            return closestPair;
+            return closestPair; // finally, return the closest pair
         }
     }
 
     // Implementieren Sie hier Ihre Lösung für die Bestimmung des Pivotelements
     public double getPivotValue(Point[] points, int a, int b, String method, Random random) {
+        if (b - a <= 1) {
+            return -1.0;
+        }
+        switch (method) {
+            case "Random":
+                return points[random.nextInt(b - a) + a].getX(); // return a random x within range
+            case "First":
+                return points[a].getX(); // return first x
+            case "Median Of Three":
+                double top = points[a].getX();
+                double mid = points[(b - a - 1) / 2 + a].getX();
+                double bot = points[b - 1].getX();
 
-        return -1.0;
+                double[] arr = {top, mid, bot}; // create array
+                for (int i = 1; i < arr.length; i++) { // sort the elements
+                    for (int j = i; j > 0 && arr[j - 1] > arr[j]; j--) {
+                        double temp = arr[j - 1];
+                        arr[j - 1] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+
+                return arr[1]; // return the middle one
+            default:
+                return -1.0;
+        }
     }
 
     // Implementieren Sie hier Ihre Lösung für das Aufteilen des Arrays
     public int split(Point[] points, int a, int b, double pivot) {
-        
-        return -1;
-    }
+        if (b - a <= 1) {
+            return -1;
+        } else {
 
+            return 0;
+        }
+    }
 
     // Implementieren Sie hier Ihre Lösung für die Kombination zweier Teilprobleme
     public PointPair combination(Point[] points, int a, int b, double delta, int t, double L) {
         
         return null;
     }
-
 }
