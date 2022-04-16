@@ -95,25 +95,60 @@ public class StudentSolutionImplementation implements StudentSolution {
         if (b - a <= 1) {
             return -1;
         } else {
-            double closest = Double.MAX_VALUE;
 
-            return 0;
+            double closest = Double.MAX_VALUE;
+            int t = a;
+            for (int i = a; i < b; i++) {
+                double difference = Math.abs(points[i].getX() - pivot);
+                if (difference < closest) {
+                    closest = difference;
+                    t = i;
+                }
+            }
+            for (int i = a; i < b; i++) {
+                if ((points[i].getX() > points[t].getX() && i < t) || (points[i].getX() < points[t].getX() && i > t)) {
+                    swap(points, i, t);
+                    t = i;
+                }
+                if (i == b - 1 && !isInOrder(points, a, t, b, pivot)) {
+                    i = a;
+                }
+            }
+            if (t == a) {
+                t++;
+            }
+
+            return t;
         }
+    }
+
+    private boolean isInOrder(Point[] points, int a, int t, int b, double pivot) {
+        for (int i = a; i < t; i++) {
+            if (points[i].getX() > pivot) {
+                return false;
+            }
+        }
+        for (int i = t; i < b; i++) {
+            if (points[i].getX() < pivot) {
+                return false;
+            }
+        }
+        return true;
     }
 
     // Implementieren Sie hier Ihre Lösung für die Kombination zweier Teilprobleme
     public PointPair combination(Point[] points, int a, int b, double delta, int t, double L) {
         int newA = a;
         int newB = b;
-        for (int i = a; i < t; i++) {
+        for (int i = a; i < b; i++) {
             if (L - points[i].getX() <= delta) {
                 newA = i;
                 break;
             }
         }
-        for (int i = t; i < b; i++) {
+        for (int i = b - 1; i >= a; i--) {
             if (points[i].getX() - L <= delta) {
-                newB = i;
+                newB = i + 1;
                 break;
             }
         }
