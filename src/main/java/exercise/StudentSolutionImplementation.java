@@ -98,6 +98,7 @@ public class StudentSolutionImplementation implements StudentSolution {
 
             double closest = Double.MAX_VALUE;
             int t = a;
+            // find a t closest to the pivot value
             for (int i = a; i < b; i++) {
                 double difference = Math.abs(points[i].getX() - pivot);
                 if (difference < closest) {
@@ -105,6 +106,8 @@ public class StudentSolutionImplementation implements StudentSolution {
                     t = i;
                 }
             }
+            // rearrange array so all elements < pivot have an index < t
+            // and elements > pivot have an index > t
             for (int i = a; i < b; i++) {
                 if ((points[i].getX() > points[t].getX() && i < t) || (points[i].getX() < points[t].getX() && i > t)) {
                     swap(points, i, t);
@@ -114,7 +117,7 @@ public class StudentSolutionImplementation implements StudentSolution {
                     i = a;
                 }
             }
-            if (t == a) {
+            if (t == a) { // t cannot be a or b
                 t++;
             }
 

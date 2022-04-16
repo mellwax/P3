@@ -1,0 +1,805 @@
+#closest-pair.csv
+#Kristijan
+#Todorovic
+#11806442
+group,number,duration,size
+Closest Pair: set1 - Random,469,852200,100
+Closest Pair: set1 - Random,470,2115700,200
+Closest Pair: set1 - Random,471,556700,300
+Closest Pair: set1 - Random,472,696800,400
+Closest Pair: set1 - Random,473,1091300,500
+Closest Pair: set1 - Random,474,1684000,600
+Closest Pair: set1 - Random,475,1818100,700
+Closest Pair: set1 - Random,476,2836000,800
+Closest Pair: set1 - Random,477,1598400,900
+Closest Pair: set1 - Random,478,1676100,1000
+Closest Pair: set1 - Random,479,1882200,1100
+Closest Pair: set1 - Random,480,2333800,1200
+Closest Pair: set1 - Random,481,2709400,1300
+Closest Pair: set1 - Random,482,3044700,1400
+Closest Pair: set1 - Random,483,3234400,1500
+Closest Pair: set1 - Random,484,3852900,1600
+Closest Pair: set1 - Random,485,4121900,1700
+Closest Pair: set1 - Random,486,4638800,1800
+Closest Pair: set1 - Random,487,5133700,1900
+Closest Pair: set1 - Random,488,5784500,2000
+Closest Pair: set1 - Random,489,6280500,2100
+Closest Pair: set1 - Random,490,7029100,2200
+Closest Pair: set1 - Random,491,7599800,2300
+Closest Pair: set1 - Random,492,8074400,2400
+Closest Pair: set1 - Random,493,8681900,2500
+Closest Pair: set1 - Random,494,9298100,2600
+Closest Pair: set1 - Random,495,10004200,2700
+Closest Pair: set1 - Random,496,10858200,2800
+Closest Pair: set1 - Random,497,12480300,2900
+Closest Pair: set1 - Random,498,12912700,3000
+Closest Pair: set1 - Random,499,12642600,3100
+Closest Pair: set1 - Random,500,13981300,3200
+Closest Pair: set1 - Random,501,13864400,3300
+Closest Pair: set1 - Random,502,14830400,3400
+Closest Pair: set1 - Random,503,17128100,3500
+Closest Pair: set1 - Random,504,17594400,3600
+Closest Pair: set1 - Random,505,19649200,3700
+Closest Pair: set1 - Random,506,20923800,3800
+Closest Pair: set1 - Random,507,18719800,3900
+Closest Pair: set1 - Random,508,22607000,4000
+Closest Pair: set1 - Random,509,26899100,4100
+Closest Pair: set1 - Random,510,22074900,4200
+Closest Pair: set1 - Random,511,23337100,4300
+Closest Pair: set1 - Random,512,27603500,4400
+Closest Pair: set1 - Random,513,26762100,4500
+Closest Pair: set1 - Random,514,29306100,4600
+Closest Pair: set1 - Random,515,31726900,4700
+Closest Pair: set1 - Random,516,34868700,4800
+Closest Pair: set1 - Random,517,34295100,4900
+Closest Pair: set1 - Random,518,37251000,5000
+Closest Pair: set1 - Random,519,35751400,5100
+Closest Pair: set1 - Random,520,34054700,5200
+Closest Pair: set1 - Random,521,43024500,5300
+Closest Pair: set1 - Random,522,39492900,5400
+Closest Pair: set1 - Random,523,43456700,5500
+Closest Pair: set1 - Random,524,41786700,5600
+Closest Pair: set1 - Random,525,40836300,5700
+Closest Pair: set1 - Random,526,47026400,5800
+Closest Pair: set1 - Random,527,50276600,5900
+Closest Pair: set1 - Random,528,52355000,6000
+Closest Pair: set1 - Random,529,50938800,6100
+Closest Pair: set1 - Random,530,52988400,6200
+Closest Pair: set1 - Random,531,60903100,6300
+Closest Pair: set1 - Random,532,55306600,6400
+Closest Pair: set1 - Random,533,57851300,6500
+Closest Pair: set1 - Random,534,62393100,6600
+Closest Pair: set1 - Random,535,67977300,6700
+Closest Pair: set1 - Random,536,77449600,6800
+Closest Pair: set1 - Random,537,83956800,6900
+Closest Pair: set1 - Random,538,71312800,7000
+Closest Pair: set1 - Random,539,66777000,7100
+Closest Pair: set1 - Random,540,73614100,7200
+Closest Pair: set1 - Random,541,74475100,7300
+Closest Pair: set1 - Random,542,74860900,7400
+Closest Pair: set1 - Random,543,84912700,7500
+Closest Pair: set1 - Random,544,91190300,7600
+Closest Pair: set1 - Random,545,82453700,7700
+Closest Pair: set1 - Random,546,89999700,7800
+Closest Pair: set1 - Random,547,111216000,7900
+Closest Pair: set1 - Random,548,95747600,8000
+Closest Pair: set1 - Random,549,98885600,8100
+Closest Pair: set1 - Random,550,116185300,8200
+Closest Pair: set1 - Random,551,94880500,8300
+Closest Pair: set1 - Random,552,97757200,8400
+Closest Pair: set1 - Random,553,118416100,8500
+Closest Pair: set1 - Random,554,111535000,8600
+Closest Pair: set1 - Random,555,129228300,8700
+Closest Pair: set1 - Random,556,113824100,8800
+Closest Pair: set1 - Random,557,119619900,8900
+Closest Pair: set1 - Random,558,114498300,9000
+Closest Pair: set1 - Random,559,124929400,9100
+Closest Pair: set1 - Random,560,133592600,9200
+Closest Pair: set1 - Random,561,121830500,9300
+Closest Pair: set1 - Random,562,142766900,9400
+Closest Pair: set1 - Random,563,122476500,9500
+Closest Pair: set1 - Random,564,156907900,9600
+Closest Pair: set1 - Random,565,131300800,9700
+Closest Pair: set1 - Random,566,152132600,9800
+Closest Pair: set1 - Random,567,148572100,9900
+Closest Pair: set1 - Random,568,147346900,10000
+Closest Pair: set1 - First,569,54800,100
+Closest Pair: set1 - First,570,97900,200
+Closest Pair: set1 - First,571,169300,300
+Closest Pair: set1 - First,572,278700,400
+Closest Pair: set1 - First,573,393100,500
+Closest Pair: set1 - First,574,548900,600
+Closest Pair: set1 - First,575,716800,700
+Closest Pair: set1 - First,576,868200,800
+Closest Pair: set1 - First,577,1098500,900
+Closest Pair: set1 - First,578,1334700,1000
+Closest Pair: set1 - First,579,1712700,1100
+Closest Pair: set1 - First,580,1893600,1200
+Closest Pair: set1 - First,581,2248500,1300
+Closest Pair: set1 - First,582,3068800,1400
+Closest Pair: set1 - First,583,3109600,1500
+Closest Pair: set1 - First,584,3549300,1600
+Closest Pair: set1 - First,585,4086400,1700
+Closest Pair: set1 - First,586,4702400,1800
+Closest Pair: set1 - First,587,4863400,1900
+Closest Pair: set1 - First,588,5424600,2000
+Closest Pair: set1 - First,589,6087800,2100
+Closest Pair: set1 - First,590,6646100,2200
+Closest Pair: set1 - First,591,8789600,2300
+Closest Pair: set1 - First,592,7053000,2400
+Closest Pair: set1 - First,593,7922600,2500
+Closest Pair: set1 - First,594,9340200,2600
+Closest Pair: set1 - First,595,9860500,2700
+Closest Pair: set1 - First,596,10775100,2800
+Closest Pair: set1 - First,597,11505700,2900
+Closest Pair: set1 - First,598,12143100,3000
+Closest Pair: set1 - First,599,13272800,3100
+Closest Pair: set1 - First,600,13966700,3200
+Closest Pair: set1 - First,601,14668800,3300
+Closest Pair: set1 - First,602,16051800,3400
+Closest Pair: set1 - First,603,16796600,3500
+Closest Pair: set1 - First,604,18235100,3600
+Closest Pair: set1 - First,605,18805500,3700
+Closest Pair: set1 - First,606,18656100,3800
+Closest Pair: set1 - First,607,18468900,3900
+Closest Pair: set1 - First,608,19723800,4000
+Closest Pair: set1 - First,609,22798900,4100
+Closest Pair: set1 - First,610,24598600,4200
+Closest Pair: set1 - First,611,26702900,4300
+Closest Pair: set1 - First,612,26219400,4400
+Closest Pair: set1 - First,613,27566000,4500
+Closest Pair: set1 - First,614,27295600,4600
+Closest Pair: set1 - First,615,31850500,4700
+Closest Pair: set1 - First,616,28298400,4800
+Closest Pair: set1 - First,617,35607700,4900
+Closest Pair: set1 - First,618,34571600,5000
+Closest Pair: set1 - First,619,35857000,5100
+Closest Pair: set1 - First,620,39092200,5200
+Closest Pair: set1 - First,621,39962100,5300
+Closest Pair: set1 - First,622,43832300,5400
+Closest Pair: set1 - First,623,38659500,5500
+Closest Pair: set1 - First,624,45040000,5600
+Closest Pair: set1 - First,625,47002300,5700
+Closest Pair: set1 - First,626,46645800,5800
+Closest Pair: set1 - First,627,54428800,5900
+Closest Pair: set1 - First,628,52098700,6000
+Closest Pair: set1 - First,629,56093700,6100
+Closest Pair: set1 - First,630,54646500,6200
+Closest Pair: set1 - First,631,57431900,6300
+Closest Pair: set1 - First,632,64091700,6400
+Closest Pair: set1 - First,633,55570000,6500
+Closest Pair: set1 - First,634,65175800,6600
+Closest Pair: set1 - First,635,68841800,6700
+Closest Pair: set1 - First,636,62547200,6800
+Closest Pair: set1 - First,637,66650700,6900
+Closest Pair: set1 - First,638,82268100,7000
+Closest Pair: set1 - First,639,69706200,7100
+Closest Pair: set1 - First,640,72019900,7200
+Closest Pair: set1 - First,641,83213800,7300
+Closest Pair: set1 - First,642,78981700,7400
+Closest Pair: set1 - First,643,83561000,7500
+Closest Pair: set1 - First,644,80183200,7600
+Closest Pair: set1 - First,645,93333700,7700
+Closest Pair: set1 - First,646,95452500,7800
+Closest Pair: set1 - First,647,94789200,7900
+Closest Pair: set1 - First,648,97216700,8000
+Closest Pair: set1 - First,649,118476600,8100
+Closest Pair: set1 - First,650,96886200,8200
+Closest Pair: set1 - First,651,95717200,8300
+Closest Pair: set1 - First,652,110765300,8400
+Closest Pair: set1 - First,653,110592300,8500
+Closest Pair: set1 - First,654,131767400,8600
+Closest Pair: set1 - First,655,119198500,8700
+Closest Pair: set1 - First,656,125353700,8800
+Closest Pair: set1 - First,657,115097800,8900
+Closest Pair: set1 - First,658,122830500,9000
+Closest Pair: set1 - First,659,120611000,9100
+Closest Pair: set1 - First,660,121787900,9200
+Closest Pair: set1 - First,661,129855800,9300
+Closest Pair: set1 - First,662,129617200,9400
+Closest Pair: set1 - First,663,163136600,9500
+Closest Pair: set1 - First,664,135299900,9600
+Closest Pair: set1 - First,665,151820300,9700
+Closest Pair: set1 - First,666,146745600,9800
+Closest Pair: set1 - First,667,146036700,9900
+Closest Pair: set1 - First,668,165685000,10000
+Closest Pair: set1 - Median Of Three,669,56900,100
+Closest Pair: set1 - Median Of Three,670,92900,200
+Closest Pair: set1 - Median Of Three,671,172700,300
+Closest Pair: set1 - Median Of Three,672,257000,400
+Closest Pair: set1 - Median Of Three,673,392800,500
+Closest Pair: set1 - Median Of Three,674,541400,600
+Closest Pair: set1 - Median Of Three,675,713200,700
+Closest Pair: set1 - Median Of Three,676,918500,800
+Closest Pair: set1 - Median Of Three,677,1093200,900
+Closest Pair: set1 - Median Of Three,678,1398300,1000
+Closest Pair: set1 - Median Of Three,679,1631500,1100
+Closest Pair: set1 - Median Of Three,680,1882900,1200
+Closest Pair: set1 - Median Of Three,681,2177500,1300
+Closest Pair: set1 - Median Of Three,682,2760700,1400
+Closest Pair: set1 - Median Of Three,683,2892000,1500
+Closest Pair: set1 - Median Of Three,684,3182600,1600
+Closest Pair: set1 - Median Of Three,685,3556600,1700
+Closest Pair: set1 - Median Of Three,686,4024000,1800
+Closest Pair: set1 - Median Of Three,687,4776000,1900
+Closest Pair: set1 - Median Of Three,688,5444900,2000
+Closest Pair: set1 - Median Of Three,689,6234500,2100
+Closest Pair: set1 - Median Of Three,690,6122000,2200
+Closest Pair: set1 - Median Of Three,691,6733400,2300
+Closest Pair: set1 - Median Of Three,692,7810400,2400
+Closest Pair: set1 - Median Of Three,693,8090300,2500
+Closest Pair: set1 - Median Of Three,694,8500000,2600
+Closest Pair: set1 - Median Of Three,695,9657200,2700
+Closest Pair: set1 - Median Of Three,696,9882200,2800
+Closest Pair: set1 - Median Of Three,697,11078100,2900
+Closest Pair: set1 - Median Of Three,698,11061600,3000
+Closest Pair: set1 - Median Of Three,699,12710600,3100
+Closest Pair: set1 - Median Of Three,700,13742700,3200
+Closest Pair: set1 - Median Of Three,701,13450400,3300
+Closest Pair: set1 - Median Of Three,702,14868800,3400
+Closest Pair: set1 - Median Of Three,703,16003300,3500
+Closest Pair: set1 - Median Of Three,704,16823800,3600
+Closest Pair: set1 - Median Of Three,705,18513500,3700
+Closest Pair: set1 - Median Of Three,706,20392100,3800
+Closest Pair: set1 - Median Of Three,707,20909400,3900
+Closest Pair: set1 - Median Of Three,708,21292800,4000
+Closest Pair: set1 - Median Of Three,709,20827100,4100
+Closest Pair: set1 - Median Of Three,710,24520300,4200
+Closest Pair: set1 - Median Of Three,711,26428600,4300
+Closest Pair: set1 - Median Of Three,712,27523900,4400
+Closest Pair: set1 - Median Of Three,713,27426900,4500
+Closest Pair: set1 - Median Of Three,714,29295000,4600
+Closest Pair: set1 - Median Of Three,715,30365700,4700
+Closest Pair: set1 - Median Of Three,716,33307800,4800
+Closest Pair: set1 - Median Of Three,717,38998600,4900
+Closest Pair: set1 - Median Of Three,718,34481000,5000
+Closest Pair: set1 - Median Of Three,719,33061700,5100
+Closest Pair: set1 - Median Of Three,720,38639300,5200
+Closest Pair: set1 - Median Of Three,721,40747700,5300
+Closest Pair: set1 - Median Of Three,722,36923500,5400
+Closest Pair: set1 - Median Of Three,723,39334500,5500
+Closest Pair: set1 - Median Of Three,724,38703200,5600
+Closest Pair: set1 - Median Of Three,725,43843400,5700
+Closest Pair: set1 - Median Of Three,726,48793000,5800
+Closest Pair: set1 - Median Of Three,727,44935400,5900
+Closest Pair: set1 - Median Of Three,728,47099900,6000
+Closest Pair: set1 - Median Of Three,729,56542100,6100
+Closest Pair: set1 - Median Of Three,730,55626400,6200
+Closest Pair: set1 - Median Of Three,731,57189500,6300
+Closest Pair: set1 - Median Of Three,732,54822500,6400
+Closest Pair: set1 - Median Of Three,733,57094500,6500
+Closest Pair: set1 - Median Of Three,734,66382200,6600
+Closest Pair: set1 - Median Of Three,735,65250200,6700
+Closest Pair: set1 - Median Of Three,736,75216000,6800
+Closest Pair: set1 - Median Of Three,737,68915400,6900
+Closest Pair: set1 - Median Of Three,738,67298400,7000
+Closest Pair: set1 - Median Of Three,739,71368900,7100
+Closest Pair: set1 - Median Of Three,740,65439000,7200
+Closest Pair: set1 - Median Of Three,741,70504700,7300
+Closest Pair: set1 - Median Of Three,742,81105600,7400
+Closest Pair: set1 - Median Of Three,743,71952400,7500
+Closest Pair: set1 - Median Of Three,744,89508400,7600
+Closest Pair: set1 - Median Of Three,745,97104300,7700
+Closest Pair: set1 - Median Of Three,746,97419000,7800
+Closest Pair: set1 - Median Of Three,747,91556300,7900
+Closest Pair: set1 - Median Of Three,748,90544800,8000
+Closest Pair: set1 - Median Of Three,749,83967100,8100
+Closest Pair: set1 - Median Of Three,750,105607500,8200
+Closest Pair: set1 - Median Of Three,751,94618600,8300
+Closest Pair: set1 - Median Of Three,752,109037800,8400
+Closest Pair: set1 - Median Of Three,753,103616000,8500
+Closest Pair: set1 - Median Of Three,754,104421800,8600
+Closest Pair: set1 - Median Of Three,755,105091000,8700
+Closest Pair: set1 - Median Of Three,756,113387300,8800
+Closest Pair: set1 - Median Of Three,757,126003000,8900
+Closest Pair: set1 - Median Of Three,758,117479200,9000
+Closest Pair: set1 - Median Of Three,759,113996300,9100
+Closest Pair: set1 - Median Of Three,760,115828000,9200
+Closest Pair: set1 - Median Of Three,761,138072500,9300
+Closest Pair: set1 - Median Of Three,762,139495600,9400
+Closest Pair: set1 - Median Of Three,763,135091500,9500
+Closest Pair: set1 - Median Of Three,764,131330300,9600
+Closest Pair: set1 - Median Of Three,765,159712400,9700
+Closest Pair: set1 - Median Of Three,766,149119300,9800
+Closest Pair: set1 - Median Of Three,767,156862100,9900
+Closest Pair: set1 - Median Of Three,768,148246300,10000
+Closest Pair: set1 - Brute Force,769,20700,100
+Closest Pair: set1 - Brute Force,770,75600,200
+Closest Pair: set1 - Brute Force,771,169100,300
+Closest Pair: set1 - Brute Force,772,300200,400
+Closest Pair: set1 - Brute Force,773,470900,500
+Closest Pair: set1 - Brute Force,774,675900,600
+Closest Pair: set1 - Brute Force,775,919700,700
+Closest Pair: set1 - Brute Force,776,1200900,800
+Closest Pair: set1 - Brute Force,777,1519700,900
+Closest Pair: set1 - Brute Force,778,1871600,1000
+Closest Pair: set1 - Brute Force,779,2258600,1100
+Closest Pair: set1 - Brute Force,780,2690400,1200
+Closest Pair: set1 - Brute Force,781,3207400,1300
+Closest Pair: set1 - Brute Force,782,3650400,1400
+Closest Pair: set1 - Brute Force,783,4212100,1500
+Closest Pair: set1 - Brute Force,784,4778700,1600
+Closest Pair: set1 - Brute Force,785,5394600,1700
+Closest Pair: set1 - Brute Force,786,6172300,1800
+Closest Pair: set1 - Brute Force,787,6754400,1900
+Closest Pair: set1 - Brute Force,788,7488300,2000
+Closest Pair: set1 - Brute Force,789,8292600,2100
+Closest Pair: set1 - Brute Force,790,9057100,2200
+Closest Pair: set1 - Brute Force,791,9976000,2300
+Closest Pair: set1 - Brute Force,792,10714700,2400
+Closest Pair: set1 - Brute Force,793,11663700,2500
+Closest Pair: set1 - Brute Force,794,13265700,2600
+Closest Pair: set1 - Brute Force,795,13594100,2700
+Closest Pair: set1 - Brute Force,796,14661900,2800
+Closest Pair: set1 - Brute Force,797,15769800,2900
+Closest Pair: set1 - Brute Force,798,16905400,3000
+Closest Pair: set1 - Brute Force,799,17993400,3100
+Closest Pair: set1 - Brute Force,800,19145100,3200
+Closest Pair: set1 - Brute Force,801,20515900,3300
+Closest Pair: set1 - Brute Force,802,21579100,3400
+Closest Pair: set1 - Brute Force,803,23219500,3500
+Closest Pair: set1 - Brute Force,804,24308300,3600
+Closest Pair: set1 - Brute Force,805,25620900,3700
+Closest Pair: set1 - Brute Force,806,27036300,3800
+Closest Pair: set1 - Brute Force,807,28581600,3900
+Closest Pair: set1 - Brute Force,808,30232600,4000
+Closest Pair: set1 - Brute Force,809,31639200,4100
+Closest Pair: set1 - Brute Force,810,32935000,4200
+Closest Pair: set1 - Brute Force,811,34497100,4300
+Closest Pair: set1 - Brute Force,812,36200100,4400
+Closest Pair: set1 - Brute Force,813,37918900,4500
+Closest Pair: set1 - Brute Force,814,39636100,4600
+Closest Pair: set1 - Brute Force,815,41702400,4700
+Closest Pair: set1 - Brute Force,816,43011300,4800
+Closest Pair: set1 - Brute Force,817,45328300,4900
+Closest Pair: set1 - Brute Force,818,46685400,5000
+Closest Pair: set1 - Brute Force,819,49447300,5100
+Closest Pair: set1 - Brute Force,820,50947900,5200
+Closest Pair: set1 - Brute Force,821,52461400,5300
+Closest Pair: set1 - Brute Force,822,54696800,5400
+Closest Pair: set1 - Brute Force,823,57163800,5500
+Closest Pair: set1 - Brute Force,824,58698400,5600
+Closest Pair: set1 - Brute Force,825,60677400,5700
+Closest Pair: set1 - Brute Force,826,62921800,5800
+Closest Pair: set1 - Brute Force,827,65120900,5900
+Closest Pair: set1 - Brute Force,828,67310100,6000
+Closest Pair: set1 - Brute Force,829,69486100,6100
+Closest Pair: set1 - Brute Force,830,71966900,6200
+Closest Pair: set1 - Brute Force,831,74418400,6300
+Closest Pair: set1 - Brute Force,832,76268700,6400
+Closest Pair: set1 - Brute Force,833,79485900,6500
+Closest Pair: set1 - Brute Force,834,81295500,6600
+Closest Pair: set1 - Brute Force,835,84433900,6700
+Closest Pair: set1 - Brute Force,836,86921900,6800
+Closest Pair: set1 - Brute Force,837,89912600,6900
+Closest Pair: set1 - Brute Force,838,92777300,7000
+Closest Pair: set1 - Brute Force,839,94421000,7100
+Closest Pair: set1 - Brute Force,840,97076200,7200
+Closest Pair: set1 - Brute Force,841,99612000,7300
+Closest Pair: set1 - Brute Force,842,103727700,7400
+Closest Pair: set1 - Brute Force,843,105345400,7500
+Closest Pair: set1 - Brute Force,844,108747100,7600
+Closest Pair: set1 - Brute Force,845,111518600,7700
+Closest Pair: set1 - Brute Force,846,113851800,7800
+Closest Pair: set1 - Brute Force,847,116742700,7900
+Closest Pair: set1 - Brute Force,848,119652100,8000
+Closest Pair: set1 - Brute Force,849,122500700,8100
+Closest Pair: set1 - Brute Force,850,127374300,8200
+Closest Pair: set1 - Brute Force,851,129436000,8300
+Closest Pair: set1 - Brute Force,852,133589700,8400
+Closest Pair: set1 - Brute Force,853,135521700,8500
+Closest Pair: set1 - Brute Force,854,139126700,8600
+Closest Pair: set1 - Brute Force,855,142551700,8700
+Closest Pair: set1 - Brute Force,856,145067500,8800
+Closest Pair: set1 - Brute Force,857,148324600,8900
+Closest Pair: set1 - Brute Force,858,152702300,9000
+Closest Pair: set1 - Brute Force,859,156548500,9100
+Closest Pair: set1 - Brute Force,860,159674800,9200
+Closest Pair: set1 - Brute Force,861,162764700,9300
+Closest Pair: set1 - Brute Force,862,168528900,9400
+Closest Pair: set1 - Brute Force,863,175308300,9500
+Closest Pair: set1 - Brute Force,864,173729300,9600
+Closest Pair: set1 - Brute Force,865,175921000,9700
+Closest Pair: set1 - Brute Force,866,179848600,9800
+Closest Pair: set1 - Brute Force,867,182921000,9900
+Closest Pair: set1 - Brute Force,868,188627100,10000
+Closest Pair: set2 - Random,869,55400,100
+Closest Pair: set2 - Random,870,67800,200
+Closest Pair: set2 - Random,871,82700,300
+Closest Pair: set2 - Random,872,112700,400
+Closest Pair: set2 - Random,873,122300,500
+Closest Pair: set2 - Random,874,153200,600
+Closest Pair: set2 - Random,875,174900,700
+Closest Pair: set2 - Random,876,194300,800
+Closest Pair: set2 - Random,877,220800,900
+Closest Pair: set2 - Random,878,232700,1000
+Closest Pair: set2 - Random,879,244000,1100
+Closest Pair: set2 - Random,880,283000,1200
+Closest Pair: set2 - Random,881,299600,1300
+Closest Pair: set2 - Random,882,325100,1400
+Closest Pair: set2 - Random,883,361200,1500
+Closest Pair: set2 - Random,884,363600,1600
+Closest Pair: set2 - Random,885,386300,1700
+Closest Pair: set2 - Random,886,413800,1800
+Closest Pair: set2 - Random,887,440200,1900
+Closest Pair: set2 - Random,888,463600,2000
+Closest Pair: set2 - Random,889,493200,2100
+Closest Pair: set2 - Random,890,560800,2200
+Closest Pair: set2 - Random,891,557300,2300
+Closest Pair: set2 - Random,892,565200,2400
+Closest Pair: set2 - Random,893,653900,2500
+Closest Pair: set2 - Random,894,601000,2600
+Closest Pair: set2 - Random,895,631500,2700
+Closest Pair: set2 - Random,896,762500,2800
+Closest Pair: set2 - Random,897,710000,2900
+Closest Pair: set2 - Random,898,718500,3000
+Closest Pair: set2 - Random,899,748600,3100
+Closest Pair: set2 - Random,900,766400,3200
+Closest Pair: set2 - Random,901,783700,3300
+Closest Pair: set2 - Random,902,790500,3400
+Closest Pair: set2 - Random,903,851800,3500
+Closest Pair: set2 - Random,904,822600,3600
+Closest Pair: set2 - Random,905,866200,3700
+Closest Pair: set2 - Random,906,870800,3800
+Closest Pair: set2 - Random,907,943700,3900
+Closest Pair: set2 - Random,908,919900,4000
+Closest Pair: set2 - Random,909,964700,4100
+Closest Pair: set2 - Random,910,996000,4200
+Closest Pair: set2 - Random,911,1011000,4300
+Closest Pair: set2 - Random,912,1012600,4400
+Closest Pair: set2 - Random,913,1023900,4500
+Closest Pair: set2 - Random,914,1049500,4600
+Closest Pair: set2 - Random,915,1063400,4700
+Closest Pair: set2 - Random,916,1100200,4800
+Closest Pair: set2 - Random,917,1067700,4900
+Closest Pair: set2 - Random,918,1139500,5000
+Closest Pair: set2 - Random,919,1145500,5100
+Closest Pair: set2 - Random,920,1273400,5200
+Closest Pair: set2 - Random,921,1215500,5300
+Closest Pair: set2 - Random,922,1455000,5400
+Closest Pair: set2 - Random,923,1361800,5500
+Closest Pair: set2 - Random,924,1298600,5600
+Closest Pair: set2 - Random,925,1414100,5700
+Closest Pair: set2 - Random,926,1382700,5800
+Closest Pair: set2 - Random,927,1383500,5900
+Closest Pair: set2 - Random,928,1385900,6000
+Closest Pair: set2 - Random,929,1473400,6100
+Closest Pair: set2 - Random,930,1460800,6200
+Closest Pair: set2 - Random,931,1426200,6300
+Closest Pair: set2 - Random,932,1421700,6400
+Closest Pair: set2 - Random,933,2740600,6500
+Closest Pair: set2 - Random,934,1327300,6600
+Closest Pair: set2 - Random,935,1368800,6700
+Closest Pair: set2 - Random,936,1443500,6800
+Closest Pair: set2 - Random,937,1481100,6900
+Closest Pair: set2 - Random,938,1414600,7000
+Closest Pair: set2 - Random,939,1544800,7100
+Closest Pair: set2 - Random,940,1508500,7200
+Closest Pair: set2 - Random,941,1568400,7300
+Closest Pair: set2 - Random,942,1497300,7400
+Closest Pair: set2 - Random,943,1621000,7500
+Closest Pair: set2 - Random,944,1536200,7600
+Closest Pair: set2 - Random,945,1522600,7700
+Closest Pair: set2 - Random,946,1597100,7800
+Closest Pair: set2 - Random,947,1606700,7900
+Closest Pair: set2 - Random,948,1648400,8000
+Closest Pair: set2 - Random,949,1693100,8100
+Closest Pair: set2 - Random,950,1725400,8200
+Closest Pair: set2 - Random,951,1902000,8300
+Closest Pair: set2 - Random,952,1822200,8400
+Closest Pair: set2 - Random,953,1868600,8500
+Closest Pair: set2 - Random,954,1813500,8600
+Closest Pair: set2 - Random,955,1706700,8700
+Closest Pair: set2 - Random,956,1749100,8800
+Closest Pair: set2 - Random,957,1731800,8900
+Closest Pair: set2 - Random,958,1811500,9000
+Closest Pair: set2 - Random,959,1786200,9100
+Closest Pair: set2 - Random,960,1836100,9200
+Closest Pair: set2 - Random,961,1907200,9300
+Closest Pair: set2 - Random,962,1886500,9400
+Closest Pair: set2 - Random,963,1865300,9500
+Closest Pair: set2 - Random,964,1932800,9600
+Closest Pair: set2 - Random,965,2141000,9700
+Closest Pair: set2 - Random,966,2095500,9800
+Closest Pair: set2 - Random,967,2060300,9900
+Closest Pair: set2 - Random,968,2014800,10000
+Closest Pair: set2 - First,969,94200,100
+Closest Pair: set2 - First,970,171400,200
+Closest Pair: set2 - First,971,321600,300
+Closest Pair: set2 - First,972,524900,400
+Closest Pair: set2 - First,973,679500,500
+Closest Pair: set2 - First,974,1072200,600
+Closest Pair: set2 - First,975,1366000,700
+Closest Pair: set2 - First,976,1855100,800
+Closest Pair: set2 - First,977,2333400,900
+Closest Pair: set2 - First,978,2873800,1000
+Closest Pair: set2 - First,979,3404600,1100
+Closest Pair: set2 - First,980,4181600,1200
+Closest Pair: set2 - First,981,4786000,1300
+Closest Pair: set2 - First,982,5580300,1400
+Closest Pair: set2 - First,983,6404400,1500
+Closest Pair: set2 - First,984,7453700,1600
+Closest Pair: set2 - First,985,8262800,1700
+Closest Pair: set2 - First,986,9060500,1800
+Closest Pair: set2 - First,987,10212100,1900
+Closest Pair: set2 - First,988,11335700,2000
+Closest Pair: set2 - First,989,12476100,2100
+Closest Pair: set2 - First,990,13657800,2200
+Closest Pair: set2 - First,991,14914400,2300
+Closest Pair: set2 - First,992,16175900,2400
+Closest Pair: set2 - First,993,17634900,2500
+Closest Pair: set2 - First,994,19065600,2600
+Closest Pair: set2 - First,995,20923400,2700
+Closest Pair: set2 - First,996,22931800,2800
+Closest Pair: set2 - First,997,23857300,2900
+Closest Pair: set2 - First,998,26164100,3000
+Closest Pair: set2 - First,999,27771600,3100
+Closest Pair: set2 - First,1000,29196900,3200
+Closest Pair: set2 - First,1001,30966600,3300
+Closest Pair: set2 - First,1002,34002700,3400
+Closest Pair: set2 - First,1003,34289600,3500
+Closest Pair: set2 - First,1004,36463000,3600
+Closest Pair: set2 - First,1005,38193800,3700
+Closest Pair: set2 - First,1006,40577100,3800
+Closest Pair: set2 - First,1007,42505900,3900
+Closest Pair: set2 - First,1008,44922300,4000
+Closest Pair: set2 - First,1009,47365600,4100
+Closest Pair: set2 - First,1010,49623100,4200
+Closest Pair: set2 - First,1011,52446400,4300
+Closest Pair: set2 - First,1012,56652000,4400
+Closest Pair: set2 - First,1013,57575200,4500
+Closest Pair: set2 - First,1014,60575300,4600
+Closest Pair: set2 - First,1015,61984600,4700
+Closest Pair: set2 - First,1016,65074600,4800
+Closest Pair: set2 - First,1017,67273000,4900
+Closest Pair: set2 - First,1018,70232900,5000
+Closest Pair: set2 - First,1019,74002900,5100
+Closest Pair: set2 - First,1020,77897700,5200
+Closest Pair: set2 - First,1021,80459300,5300
+Closest Pair: set2 - First,1022,82112100,5400
+Closest Pair: set2 - First,1023,85819300,5500
+Closest Pair: set2 - First,1024,91740400,5600
+Closest Pair: set2 - First,1025,91879900,5700
+Closest Pair: set2 - First,1026,94972200,5800
+Closest Pair: set2 - First,1027,98672600,5900
+Closest Pair: set2 - First,1028,104392700,6000
+Closest Pair: set2 - First,1029,105457900,6100
+Closest Pair: set2 - First,1030,109353400,6200
+Closest Pair: set2 - First,1031,115915500,6300
+Closest Pair: set2 - First,1032,118589800,6400
+Closest Pair: set2 - First,1033,120302500,6500
+Closest Pair: set2 - First,1034,124350300,6600
+Closest Pair: set2 - First,1035,127672800,6700
+Closest Pair: set2 - First,1036,133256800,6800
+Closest Pair: set2 - First,1037,142920200,6900
+Closest Pair: set2 - First,1038,140277700,7000
+Closest Pair: set2 - First,1039,149949300,7100
+Closest Pair: set2 - First,1040,152651200,7200
+Closest Pair: set2 - First,1041,151704400,7300
+Closest Pair: set2 - First,1042,159530400,7400
+Closest Pair: set2 - First,1043,159361200,7500
+Closest Pair: set2 - First,1044,169202200,7600
+Closest Pair: set2 - First,1045,168730700,7700
+Closest Pair: set2 - First,1046,176733400,7800
+Closest Pair: set2 - First,1047,178237600,7900
+Closest Pair: set2 - First,1048,182679400,8000
+Closest Pair: set2 - First,1049,194442600,8100
+Closest Pair: set2 - First,1050,195880200,8200
+Closest Pair: set2 - First,1051,197703900,8300
+Closest Pair: set2 - First,1052,204550700,8400
+Closest Pair: set2 - First,1053,207700300,8500
+Closest Pair: set2 - First,1054,215001700,8600
+Closest Pair: set2 - First,1055,222943100,8700
+Closest Pair: set2 - First,1056,222125000,8800
+Closest Pair: set2 - First,1057,228276900,8900
+Closest Pair: set2 - First,1058,232913100,9000
+Closest Pair: set2 - First,1059,239512200,9100
+Closest Pair: set2 - First,1060,244826900,9200
+Closest Pair: set2 - First,1061,270446400,9300
+Closest Pair: set2 - First,1062,259787900,9400
+Closest Pair: set2 - First,1063,262975100,9500
+Closest Pair: set2 - First,1064,269300600,9600
+Closest Pair: set2 - First,1065,289814200,9700
+Closest Pair: set2 - First,1066,281610500,9800
+Closest Pair: set2 - First,1067,288045100,9900
+Closest Pair: set2 - First,1068,291893300,10000
+Closest Pair: set2 - Median Of Three,1069,39300,100
+Closest Pair: set2 - Median Of Three,1070,55800,200
+Closest Pair: set2 - Median Of Three,1071,62800,300
+Closest Pair: set2 - Median Of Three,1072,88800,400
+Closest Pair: set2 - Median Of Three,1073,96900,500
+Closest Pair: set2 - Median Of Three,1074,111900,600
+Closest Pair: set2 - Median Of Three,1075,128900,700
+Closest Pair: set2 - Median Of Three,1076,151000,800
+Closest Pair: set2 - Median Of Three,1077,154500,900
+Closest Pair: set2 - Median Of Three,1078,166600,1000
+Closest Pair: set2 - Median Of Three,1079,190900,1100
+Closest Pair: set2 - Median Of Three,1080,211200,1200
+Closest Pair: set2 - Median Of Three,1081,218700,1300
+Closest Pair: set2 - Median Of Three,1082,231000,1400
+Closest Pair: set2 - Median Of Three,1083,249600,1500
+Closest Pair: set2 - Median Of Three,1084,270100,1600
+Closest Pair: set2 - Median Of Three,1085,277800,1700
+Closest Pair: set2 - Median Of Three,1086,289600,1800
+Closest Pair: set2 - Median Of Three,1087,328200,1900
+Closest Pair: set2 - Median Of Three,1088,332600,2000
+Closest Pair: set2 - Median Of Three,1089,347600,2100
+Closest Pair: set2 - Median Of Three,1090,371200,2200
+Closest Pair: set2 - Median Of Three,1091,395100,2300
+Closest Pair: set2 - Median Of Three,1092,402600,2400
+Closest Pair: set2 - Median Of Three,1093,417300,2500
+Closest Pair: set2 - Median Of Three,1094,453800,2600
+Closest Pair: set2 - Median Of Three,1095,451900,2700
+Closest Pair: set2 - Median Of Three,1096,467900,2800
+Closest Pair: set2 - Median Of Three,1097,487400,2900
+Closest Pair: set2 - Median Of Three,1098,512100,3000
+Closest Pair: set2 - Median Of Three,1099,511400,3100
+Closest Pair: set2 - Median Of Three,1100,544100,3200
+Closest Pair: set2 - Median Of Three,1101,551500,3300
+Closest Pair: set2 - Median Of Three,1102,933100,3400
+Closest Pair: set2 - Median Of Three,1103,570200,3500
+Closest Pair: set2 - Median Of Three,1104,578500,3600
+Closest Pair: set2 - Median Of Three,1105,590600,3700
+Closest Pair: set2 - Median Of Three,1106,610300,3800
+Closest Pair: set2 - Median Of Three,1107,617600,3900
+Closest Pair: set2 - Median Of Three,1108,633700,4000
+Closest Pair: set2 - Median Of Three,1109,673500,4100
+Closest Pair: set2 - Median Of Three,1110,677700,4200
+Closest Pair: set2 - Median Of Three,1111,689200,4300
+Closest Pair: set2 - Median Of Three,1112,722000,4400
+Closest Pair: set2 - Median Of Three,1113,731300,4500
+Closest Pair: set2 - Median Of Three,1114,730500,4600
+Closest Pair: set2 - Median Of Three,1115,759000,4700
+Closest Pair: set2 - Median Of Three,1116,752800,4800
+Closest Pair: set2 - Median Of Three,1117,777500,4900
+Closest Pair: set2 - Median Of Three,1118,775000,5000
+Closest Pair: set2 - Median Of Three,1119,778500,5100
+Closest Pair: set2 - Median Of Three,1120,823600,5200
+Closest Pair: set2 - Median Of Three,1121,821400,5300
+Closest Pair: set2 - Median Of Three,1122,1071900,5400
+Closest Pair: set2 - Median Of Three,1123,885000,5500
+Closest Pair: set2 - Median Of Three,1124,928300,5600
+Closest Pair: set2 - Median Of Three,1125,937300,5700
+Closest Pair: set2 - Median Of Three,1126,933400,5800
+Closest Pair: set2 - Median Of Three,1127,939700,5900
+Closest Pair: set2 - Median Of Three,1128,945100,6000
+Closest Pair: set2 - Median Of Three,1129,933900,6100
+Closest Pair: set2 - Median Of Three,1130,970700,6200
+Closest Pair: set2 - Median Of Three,1131,978800,6300
+Closest Pair: set2 - Median Of Three,1132,1033100,6400
+Closest Pair: set2 - Median Of Three,1133,1002400,6500
+Closest Pair: set2 - Median Of Three,1134,1029000,6600
+Closest Pair: set2 - Median Of Three,1135,1020400,6700
+Closest Pair: set2 - Median Of Three,1136,1084000,6800
+Closest Pair: set2 - Median Of Three,1137,1041300,6900
+Closest Pair: set2 - Median Of Three,1138,1049900,7000
+Closest Pair: set2 - Median Of Three,1139,1074000,7100
+Closest Pair: set2 - Median Of Three,1140,1095100,7200
+Closest Pair: set2 - Median Of Three,1141,1153500,7300
+Closest Pair: set2 - Median Of Three,1142,1113100,7400
+Closest Pair: set2 - Median Of Three,1143,1143900,7500
+Closest Pair: set2 - Median Of Three,1144,1127200,7600
+Closest Pair: set2 - Median Of Three,1145,1205600,7700
+Closest Pair: set2 - Median Of Three,1146,1202900,7800
+Closest Pair: set2 - Median Of Three,1147,1208200,7900
+Closest Pair: set2 - Median Of Three,1148,1202900,8000
+Closest Pair: set2 - Median Of Three,1149,1245000,8100
+Closest Pair: set2 - Median Of Three,1150,1275500,8200
+Closest Pair: set2 - Median Of Three,1151,1281600,8300
+Closest Pair: set2 - Median Of Three,1152,1300300,8400
+Closest Pair: set2 - Median Of Three,1153,1266700,8500
+Closest Pair: set2 - Median Of Three,1154,1321700,8600
+Closest Pair: set2 - Median Of Three,1155,1353300,8700
+Closest Pair: set2 - Median Of Three,1156,1340200,8800
+Closest Pair: set2 - Median Of Three,1157,1386100,8900
+Closest Pair: set2 - Median Of Three,1158,1401300,9000
+Closest Pair: set2 - Median Of Three,1159,1493900,9100
+Closest Pair: set2 - Median Of Three,1160,1420800,9200
+Closest Pair: set2 - Median Of Three,1161,1430900,9300
+Closest Pair: set2 - Median Of Three,1162,1406300,9400
+Closest Pair: set2 - Median Of Three,1163,1446000,9500
+Closest Pair: set2 - Median Of Three,1164,1491900,9600
+Closest Pair: set2 - Median Of Three,1165,1514800,9700
+Closest Pair: set2 - Median Of Three,1166,1543400,9800
+Closest Pair: set2 - Median Of Three,1167,1515900,9900
+Closest Pair: set2 - Median Of Three,1168,1512300,10000
+Closest Pair: set2 - Brute Force,1169,20000,100
+Closest Pair: set2 - Brute Force,1170,75500,200
+Closest Pair: set2 - Brute Force,1171,169400,300
+Closest Pair: set2 - Brute Force,1172,301200,400
+Closest Pair: set2 - Brute Force,1173,470700,500
+Closest Pair: set2 - Brute Force,1174,678900,600
+Closest Pair: set2 - Brute Force,1175,921000,700
+Closest Pair: set2 - Brute Force,1176,1200100,800
+Closest Pair: set2 - Brute Force,1177,1519000,900
+Closest Pair: set2 - Brute Force,1178,1881700,1000
+Closest Pair: set2 - Brute Force,1179,2284600,1100
+Closest Pair: set2 - Brute Force,1180,2690500,1200
+Closest Pair: set2 - Brute Force,1181,3165300,1300
+Closest Pair: set2 - Brute Force,1182,3662500,1400
+Closest Pair: set2 - Brute Force,1183,4219100,1500
+Closest Pair: set2 - Brute Force,1184,4794600,1600
+Closest Pair: set2 - Brute Force,1185,5398400,1700
+Closest Pair: set2 - Brute Force,1186,6058400,1800
+Closest Pair: set2 - Brute Force,1187,6808200,1900
+Closest Pair: set2 - Brute Force,1188,7523600,2000
+Closest Pair: set2 - Brute Force,1189,8276500,2100
+Closest Pair: set2 - Brute Force,1190,9113100,2200
+Closest Pair: set2 - Brute Force,1191,9908400,2300
+Closest Pair: set2 - Brute Force,1192,10871000,2400
+Closest Pair: set2 - Brute Force,1193,11688600,2500
+Closest Pair: set2 - Brute Force,1194,12711400,2600
+Closest Pair: set2 - Brute Force,1195,13638200,2700
+Closest Pair: set2 - Brute Force,1196,14717100,2800
+Closest Pair: set2 - Brute Force,1197,15883200,2900
+Closest Pair: set2 - Brute Force,1198,17017400,3000
+Closest Pair: set2 - Brute Force,1199,18047600,3100
+Closest Pair: set2 - Brute Force,1200,19240600,3200
+Closest Pair: set2 - Brute Force,1201,20366800,3300
+Closest Pair: set2 - Brute Force,1202,21910900,3400
+Closest Pair: set2 - Brute Force,1203,23026200,3500
+Closest Pair: set2 - Brute Force,1204,24395400,3600
+Closest Pair: set2 - Brute Force,1205,25591800,3700
+Closest Pair: set2 - Brute Force,1206,27078100,3800
+Closest Pair: set2 - Brute Force,1207,28564000,3900
+Closest Pair: set2 - Brute Force,1208,30140700,4000
+Closest Pair: set2 - Brute Force,1209,31472500,4100
+Closest Pair: set2 - Brute Force,1210,33088100,4200
+Closest Pair: set2 - Brute Force,1211,34722700,4300
+Closest Pair: set2 - Brute Force,1212,36181200,4400
+Closest Pair: set2 - Brute Force,1213,37819700,4500
+Closest Pair: set2 - Brute Force,1214,39488000,4600
+Closest Pair: set2 - Brute Force,1215,41340600,4700
+Closest Pair: set2 - Brute Force,1216,43685200,4800
+Closest Pair: set2 - Brute Force,1217,44833300,4900
+Closest Pair: set2 - Brute Force,1218,46828100,5000
+Closest Pair: set2 - Brute Force,1219,48986700,5100
+Closest Pair: set2 - Brute Force,1220,50955000,5200
+Closest Pair: set2 - Brute Force,1221,52801400,5300
+Closest Pair: set2 - Brute Force,1222,54593500,5400
+Closest Pair: set2 - Brute Force,1223,56554600,5500
+Closest Pair: set2 - Brute Force,1224,59333400,5600
+Closest Pair: set2 - Brute Force,1225,61327100,5700
+Closest Pair: set2 - Brute Force,1226,63190300,5800
+Closest Pair: set2 - Brute Force,1227,65105600,5900
+Closest Pair: set2 - Brute Force,1228,67333700,6000
+Closest Pair: set2 - Brute Force,1229,70189300,6100
+Closest Pair: set2 - Brute Force,1230,72470200,6200
+Closest Pair: set2 - Brute Force,1231,75098300,6300
+Closest Pair: set2 - Brute Force,1232,76995700,6400
+Closest Pair: set2 - Brute Force,1233,79469500,6500
+Closest Pair: set2 - Brute Force,1234,82079500,6600
+Closest Pair: set2 - Brute Force,1235,86029000,6700
+Closest Pair: set2 - Brute Force,1236,87113700,6800
+Closest Pair: set2 - Brute Force,1237,89121600,6900
+Closest Pair: set2 - Brute Force,1238,91469400,7000
+Closest Pair: set2 - Brute Force,1239,94297000,7100
+Closest Pair: set2 - Brute Force,1240,97765900,7200
+Closest Pair: set2 - Brute Force,1241,100356600,7300
+Closest Pair: set2 - Brute Force,1242,102976400,7400
+Closest Pair: set2 - Brute Force,1243,105532800,7500
+Closest Pair: set2 - Brute Force,1244,108446100,7600
+Closest Pair: set2 - Brute Force,1245,111729900,7700
+Closest Pair: set2 - Brute Force,1246,114189200,7800
+Closest Pair: set2 - Brute Force,1247,117096900,7900
+Closest Pair: set2 - Brute Force,1248,119488600,8000
+Closest Pair: set2 - Brute Force,1249,123377000,8100
+Closest Pair: set2 - Brute Force,1250,126810500,8200
+Closest Pair: set2 - Brute Force,1251,129906400,8300
+Closest Pair: set2 - Brute Force,1252,132374000,8400
+Closest Pair: set2 - Brute Force,1253,135392200,8500
+Closest Pair: set2 - Brute Force,1254,139037200,8600
+Closest Pair: set2 - Brute Force,1255,142106800,8700
+Closest Pair: set2 - Brute Force,1256,144784500,8800
+Closest Pair: set2 - Brute Force,1257,148329300,8900
+Closest Pair: set2 - Brute Force,1258,152100300,9000
+Closest Pair: set2 - Brute Force,1259,155523400,9100
+Closest Pair: set2 - Brute Force,1260,159438200,9200
+Closest Pair: set2 - Brute Force,1261,161907200,9300
+Closest Pair: set2 - Brute Force,1262,166319000,9400
+Closest Pair: set2 - Brute Force,1263,169513300,9500
+Closest Pair: set2 - Brute Force,1264,173351600,9600
+Closest Pair: set2 - Brute Force,1265,177245500,9700
+Closest Pair: set2 - Brute Force,1266,180808500,9800
+Closest Pair: set2 - Brute Force,1267,184122300,9900
+Closest Pair: set2 - Brute Force,1268,187538600,10000
