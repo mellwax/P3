@@ -95,6 +95,7 @@ public class StudentSolutionImplementation implements StudentSolution {
         if (b - a <= 1) {
             return -1;
         } else {
+            double closest = Double.MAX_VALUE;
 
             return 0;
         }
@@ -102,7 +103,22 @@ public class StudentSolutionImplementation implements StudentSolution {
 
     // Implementieren Sie hier Ihre Lösung für die Kombination zweier Teilprobleme
     public PointPair combination(Point[] points, int a, int b, double delta, int t, double L) {
-        
-        return null;
+        int newA = a;
+        int newB = b;
+        for (int i = a; i < t; i++) {
+            if (L - points[i].getX() <= delta) {
+                newA = i;
+                break;
+            }
+        }
+        for (int i = t; i < b; i++) {
+            if (points[i].getX() - L <= delta) {
+                newB = i;
+                break;
+            }
+        }
+        insertionSort(points, newA, newB, false);
+
+        return bruteForce(points, newA, newB);
     }
 }
